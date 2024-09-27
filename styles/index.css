@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.work-sans{
+    font-family: "Work Sans", sans-serif;
+}
+
+.shadowcss:hover{
+    box-shadow: 0px 0px 10px rgb(105, 105, 105);
+}
+
+.bg-gradiend{
+    background: #ffffff; background-image: radial-gradient(at -5.2% 1.1%, #FFEAC6 0px, transparent 50%),radial-gradient(at 101.1% 55.4%, #C4F5E9 0px, transparent 50%),radial-gradient(at 96.2% 11.8%, hsl(272, 100%, 85%) 0px, transparent 50%),radial-gradient(at -1.7% 95.7%, hsl(272, 100%, 85%) 0px, transparent 50%)
+    
+}
